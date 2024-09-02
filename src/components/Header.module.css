@@ -1,0 +1,11 @@
+.content {
+  display: flex;
+  flex: 1;
+  background-color: var(--gray-700);
+  justify-content: center;
+  padding: 5rem 0.625rem;
+}
+
+.content img {
+  height: 48px;
+}

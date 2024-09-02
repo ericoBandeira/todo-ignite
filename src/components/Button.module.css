@@ -24,3 +24,8 @@
 .container:hover {
   background-color: var(--blue);
 }
+
+.container:disabled {
+  background-color: var(--gray-300);
+  cursor: not-allowed;
+}
